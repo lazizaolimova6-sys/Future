@@ -10,7 +10,7 @@ export default function Header() {
                     <div className="teach2">
                         <img src={future} alt="logo" />
                         <ul>
-                            <a href=""><li>Maktab haqida</li></a>
+                            <a href=""><li>Markaz haqida</li></a>
                             <a href=""><li>Tariflar</li></a>
                             <a href=""><li>Aloqa</li></a>
                             <a href=""><li>Natijalar</li></a>
