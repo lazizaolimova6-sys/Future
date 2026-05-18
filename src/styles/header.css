@@ -1,8 +1,11 @@
+.header{
+    background-color: #161656;
+    padding: 20px 0;
+}
 .teach2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 50px;
     padding: 10px;
 
 
@@ -31,7 +34,6 @@
 
 .tech {
     border-radius: 10px;
-    background-color: #161656;
 }
 
 
